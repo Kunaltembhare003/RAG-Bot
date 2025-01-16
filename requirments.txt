@@ -1,0 +1,14 @@
+trl
+transformers
+accelerate
+datasets
+bitsandbytes
+einops
+langchain
+torch
+huggingface-hub 
+peft 
+sentence-transformers 
+pypdf 
+chromadb  
+unstructured

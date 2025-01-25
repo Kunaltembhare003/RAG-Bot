@@ -12,3 +12,6 @@ sentence-transformers
 pypdf 
 chromadb  
 unstructured
+langchain_community 
+langchain-huggingface
+pypdf
